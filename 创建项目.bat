@@ -1,2 +1,0 @@
-scrapy startproject shebao
-pause
